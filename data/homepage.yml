@@ -29,8 +29,8 @@ skill:
       color : "#bdecf6"
 
     - title : "Video Editing"
-    progress : "70%"
-    color : "#bdecf6"
+      progress : "70%"
+      color : "#bdecf6"
       
     - title : "Programming"
       progress : "70%"
